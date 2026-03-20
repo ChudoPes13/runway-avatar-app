@@ -10,7 +10,7 @@ const MY_AVATAR = {
   id: '332d323b-1ee9-4e11-bad7-4045e0b2ac95',
   name: 'Александр',
   imageUrl:
-    'photo.jpg',
+    'https://mastercheb.ru/photo.jpg',
 };
 
 interface SessionInfo {
